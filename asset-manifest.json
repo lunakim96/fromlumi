@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fromlumi/static/css/main.6f38fad6.chunk.css",
+    "main.css": "/fromlumi/static/css/main.5a6345cc.chunk.css",
     "main.js": "/fromlumi/static/js/main.769d39a9.chunk.js",
     "main.js.map": "/fromlumi/static/js/main.769d39a9.chunk.js.map",
     "runtime-main.js": "/fromlumi/static/js/runtime-main.4ecae7ed.js",
@@ -10,14 +10,14 @@
     "static/js/3.c6f85392.chunk.js": "/fromlumi/static/js/3.c6f85392.chunk.js",
     "static/js/3.c6f85392.chunk.js.map": "/fromlumi/static/js/3.c6f85392.chunk.js.map",
     "index.html": "/fromlumi/index.html",
-    "static/css/main.6f38fad6.chunk.css.map": "/fromlumi/static/css/main.6f38fad6.chunk.css.map",
+    "static/css/main.5a6345cc.chunk.css.map": "/fromlumi/static/css/main.5a6345cc.chunk.css.map",
     "static/js/2.10cf55e3.chunk.js.LICENSE.txt": "/fromlumi/static/js/2.10cf55e3.chunk.js.LICENSE.txt",
     "static/media/hand.d0481dcb.svg": "/fromlumi/static/media/hand.d0481dcb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4ecae7ed.js",
     "static/js/2.10cf55e3.chunk.js",
-    "static/css/main.6f38fad6.chunk.css",
+    "static/css/main.5a6345cc.chunk.css",
     "static/js/main.769d39a9.chunk.js"
   ]
 }
