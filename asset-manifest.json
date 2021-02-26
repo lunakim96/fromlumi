@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fromlumi/static/css/main.3bf21e76.chunk.css",
-    "main.js": "/fromlumi/static/js/main.a0d70fc1.chunk.js",
-    "main.js.map": "/fromlumi/static/js/main.a0d70fc1.chunk.js.map",
+    "main.css": "/fromlumi/static/css/main.99866db4.chunk.css",
+    "main.js": "/fromlumi/static/js/main.7cbfb228.chunk.js",
+    "main.js.map": "/fromlumi/static/js/main.7cbfb228.chunk.js.map",
     "runtime-main.js": "/fromlumi/static/js/runtime-main.4ecae7ed.js",
     "runtime-main.js.map": "/fromlumi/static/js/runtime-main.4ecae7ed.js.map",
     "static/js/2.6f5b96b5.chunk.js": "/fromlumi/static/js/2.6f5b96b5.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c6f85392.chunk.js": "/fromlumi/static/js/3.c6f85392.chunk.js",
     "static/js/3.c6f85392.chunk.js.map": "/fromlumi/static/js/3.c6f85392.chunk.js.map",
     "index.html": "/fromlumi/index.html",
-    "static/css/main.3bf21e76.chunk.css.map": "/fromlumi/static/css/main.3bf21e76.chunk.css.map",
+    "static/css/main.99866db4.chunk.css.map": "/fromlumi/static/css/main.99866db4.chunk.css.map",
     "static/js/2.6f5b96b5.chunk.js.LICENSE.txt": "/fromlumi/static/js/2.6f5b96b5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fromlumi/static/media/wave.f565306d.svg",
     "static/media/hand.d0481dcb.svg": "/fromlumi/static/media/hand.d0481dcb.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ecae7ed.js",
     "static/js/2.6f5b96b5.chunk.js",
-    "static/css/main.3bf21e76.chunk.css",
-    "static/js/main.a0d70fc1.chunk.js"
+    "static/css/main.99866db4.chunk.css",
+    "static/js/main.7cbfb228.chunk.js"
   ]
 }
