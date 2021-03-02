@@ -5,46 +5,56 @@
 :root {
   --primary-o: #f0ae8e;
   --primary-g: #c7d9a7;
-  --accent-b: #d0efe9;
+  --accent-b: #7dbbd2;
   --accent-y: #fff4e3;
   --accent-p: #facaca;
   --text: #083132;
-  --background-w: #ffffff;
+  --background-w: #edeae5;
   --background-b: #f9f6e3;
 }
-ul.nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
+
+.main {
+  width: 100vw;
 }
 
-@media (max-width: 750px) {
-  ul.nav {
-    flex-direction: column;
-  }
-  ul.nav button {
-    margin-bottom: 1em;
-  }
+div.portfolio {
+  background: #ffffff;
+  position: relative;
+  top: 100vh;
+  z-index: 2;
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* GREETING COMPONENT */
+div.greeting {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: var(--background-w);
+  position: fixed;
+  padding-bottom: 15vh;
 }
 
 .circle {
-  height: 38px;
-  width: 38px;
-  border-radius: 50%;
-  background-color: var(--primary-g);
-}
-.rectangle {
-  width: 50px;
-  background-color: var(--primary-o);
+  height: 48px;
+  width: 48px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("./assets/circle.svg");
 }
 
 img.hand {
-  position: relative;
-  top: 50%;
-  left: 49%;
   margin-bottom: 81px;
-  animation: waving infinite 2s linear 5s;
+  padding: 0px;
+  width: 8vh;
+  animation: waving 2s linear infinite;
 }
 
 @keyframes waving {
@@ -59,18 +69,43 @@ img.hand {
   }
 }
 
-/* Navigation Bar */
-
-section.top {
-  margin-top: 10vh;
-  width: 100%;
+/*Smaller screen*/
+@media (max-width: 800px) {
+  a {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  h1 {
+    margin-top: 1em;
+    font-size: 10vh !important;
+  }
+  img.hand {
+    width: 10%;
+  }
 }
 
-section.greeting {
-  width: 100%;
+div.display {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+img.piece {
+  width: 70%;
+  padding-bottom: 40px;
+  transition: width 0.5s;
 }
 
-#itiswell {
-  height: 600px;
-  background-color: var(--accent-y);
+img.piece:hover {
+  width: 75%;
+  cursor: pointer;
+}
+
+span:hover {
+  color: var(--accent-b);
+}
+span.highlight span:hover {
+  transition: color 0.2s;
+}
+span.highlight:hover {
+  color: var(--primary-o);
 }
