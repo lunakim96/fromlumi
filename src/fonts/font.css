@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "Lumi";
+  src: local("Lumi"), url("./fonts/Lumi-Regular.otf") format("otf");
+}
