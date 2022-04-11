@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fromlumi/static/css/main.c95d5f17.chunk.css",
-    "main.js": "/fromlumi/static/js/main.3261d01f.chunk.js",
-    "main.js.map": "/fromlumi/static/js/main.3261d01f.chunk.js.map",
+    "main.js": "/fromlumi/static/js/main.35c21c01.chunk.js",
+    "main.js.map": "/fromlumi/static/js/main.35c21c01.chunk.js.map",
     "runtime-main.js": "/fromlumi/static/js/runtime-main.f357509b.js",
     "runtime-main.js.map": "/fromlumi/static/js/runtime-main.f357509b.js.map",
     "static/js/2.0cde2ed6.chunk.js": "/fromlumi/static/js/2.0cde2ed6.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f357509b.js",
     "static/js/2.0cde2ed6.chunk.js",
     "static/css/main.c95d5f17.chunk.css",
-    "static/js/main.3261d01f.chunk.js"
+    "static/js/main.35c21c01.chunk.js"
   ]
 }
