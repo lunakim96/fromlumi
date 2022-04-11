@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fromlumi/static/css/main.c95d5f17.chunk.css",
-    "main.js": "/fromlumi/static/js/main.771df2f7.chunk.js",
-    "main.js.map": "/fromlumi/static/js/main.771df2f7.chunk.js.map",
+    "main.css": "/fromlumi/static/css/main.6b11776d.chunk.css",
+    "main.js": "/fromlumi/static/js/main.24fc3004.chunk.js",
+    "main.js.map": "/fromlumi/static/js/main.24fc3004.chunk.js.map",
     "runtime-main.js": "/fromlumi/static/js/runtime-main.f357509b.js",
     "runtime-main.js.map": "/fromlumi/static/js/runtime-main.f357509b.js.map",
     "static/js/2.0cde2ed6.chunk.js": "/fromlumi/static/js/2.0cde2ed6.chunk.js",
     "static/js/2.0cde2ed6.chunk.js.map": "/fromlumi/static/js/2.0cde2ed6.chunk.js.map",
     "index.html": "/fromlumi/index.html",
-    "static/css/main.c95d5f17.chunk.css.map": "/fromlumi/static/css/main.c95d5f17.chunk.css.map",
+    "static/css/main.6b11776d.chunk.css.map": "/fromlumi/static/css/main.6b11776d.chunk.css.map",
     "static/js/2.0cde2ed6.chunk.js.LICENSE.txt": "/fromlumi/static/js/2.0cde2ed6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fromlumi/static/media/Lumi-Regular.3cc8ee00.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.f357509b.js",
     "static/js/2.0cde2ed6.chunk.js",
-    "static/css/main.c95d5f17.chunk.css",
-    "static/js/main.771df2f7.chunk.js"
+    "static/css/main.6b11776d.chunk.css",
+    "static/js/main.24fc3004.chunk.js"
   ]
 }
